@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
@@ -160,3 +161,11 @@ footer {
   font-size: 14px;
 }
 
+@media (win-width: 700px){
+  :root{
+      --bg-url: url(./assets/bg-desktop.jpg)
+  }
+  .light{
+      --bg-url: url(./assets/bg-desktop.jpg)
+  }
+}
