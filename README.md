@@ -8,3 +8,5 @@
 ✔ GIT
 <br>
 ✔ GITHUB
+<br>
+<br>https://maumau2k.github.io/SITE-JOGADOR/ 👈🏻link da página :-)
